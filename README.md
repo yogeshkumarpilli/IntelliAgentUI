@@ -67,16 +67,16 @@ Want to run this project on your local machine? Follow these steps:
     ```
 2.  **Ensure `uv` is installed:**
     ```bash
-    curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
-    export PATH="$HOME/.local/bin:$PATH" # Add to your shell profile for persistence
+    pip install uv
     ```
 3.  **Install dependencies:**
     ```bash
-    uv pip install .
+    uv sync
+    uv build
     ```
 4.  **Run the Streamlit application:**
     ```bash
-    streamlit run your_streamlit_app.py # Replace with your actual Streamlit file name
+    streamlit run app.py # Replace with your actual Streamlit file name
     ```
     (Your application will typically open in your web browser at `http://localhost:8501`)
 
