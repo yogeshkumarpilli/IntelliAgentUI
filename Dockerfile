@@ -5,7 +5,8 @@ FROM python:3.12-slim
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 
 
-
+RUN apt-get update && apt-get install -y curl build-essential \
+    && rm -rf /var/lib/apt/lists/* # Clean up apt cache to keep image size small
 
 
 # Set the working directory inside the container
