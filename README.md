@@ -6,7 +6,10 @@ colorTo: blue
 sdk: docker
 app_port: 8501
 ---
+## 🚀 Experience the Application Live!
+## 🔗 Live Demo
 
+▶️ Try it here → [**AgenticAI Langchain**](https://huggingface.co/spaces/yogeshkumarpilli/AgenticAI_Langchain)
 
 # 🌌 RAG with an Intelligent Agent
 
@@ -22,20 +25,7 @@ Welcome to an exploration of advanced AI capabilities with my Langchain-powered 
 * **Robust Docker Deployment on Hugging Face Spaces:** This application is deployed using a **custom Dockerfile** on Hugging Face Spaces, leveraging the **Docker SDK** for full environment control and reproducibility.
 * **Optimized with `uv`:** Lightning-fast dependency installation for quick builds and efficient resource use.
 
----
 
-## 🚀 Experience the Application Live!
-
-You can interact with the live application directly below. Give it a try and see what it can do!
-
-<iframe
-    src="https://yogeshkumarpilli-agenticai-langchain.hf.space"
-    frameborder="0"
-    width="850"   # Adjust width as needed, or use a percentage like "100%"
-    height="500"  # Adjust height as needed
-></iframe>
-
----
 
 ## 💡 How It Works
 
