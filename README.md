@@ -1,5 +1,5 @@
 ---
-title: Advanced Langchain Application
+title: IntelliAgentUI
 emoji: 🧠
 colorFrom: blue
 colorTo: blue
