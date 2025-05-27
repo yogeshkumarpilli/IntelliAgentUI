@@ -1,3 +1,12 @@
+---
+title: Advanced Langchain Application
+emoji: 🧠
+colorFrom: teal
+colorTo: blue
+sdk: docker
+app_port: 8501
+---
+
 
 # 🌌 RAG with an Intelligent Agent
 
