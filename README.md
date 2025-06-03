@@ -62,8 +62,8 @@ Want to run this project on your local machine? Follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yogeshkumarpilli/Langchain_Project.git](https://github.com/yogeshkumarpilli/Langchain_Project.git)
-    cd Langchain_Project
+    git clone [[https://github.com/yogeshkumarpilli/IntelliAgentUI.git](https://github.com/yogeshkumarpilli/IntelliAgentUI.git)]
+    cd IntelliAgentUI
     ```
 2.  **Ensure `uv` is installed:**
     ```bash
@@ -90,6 +90,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://github.com/yogeshkumarpilli/Langchain_Project/blob/main/LICENSE) (or specify your actual license).
+This project is licensed under the [MIT License](https://github.com/yogeshkumarpilli/IntelliAgentUI/blob/main/LICENSE) (or specify your actual license).
 
 ---
